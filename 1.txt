@@ -3,7 +3,10 @@ HI my anme is ANi
 
 afadg
 asf
+<<<<<<< HEAD
 aafdfsf\
 qads
 gdsf
 bsRf
+======= 
+>>>>>>> d767d57e6705d59b1150b80be14fde37ac740388
